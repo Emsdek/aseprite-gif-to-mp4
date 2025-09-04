@@ -13,7 +13,7 @@ Este script permite convertir animaciones GIF creadas en **Aseprite** a archivos
 
 ## ⚙️ Requisitos
 
-1. **Aseprite** instalado.  
+1. **Aseprite** instalado. Versión utilizada 1.3.15.2
 2. **FFmpeg** instalado en tu sistema.  
    - Puedes descargarlo desde [https://ffmpeg.org/download.html](https://ffmpeg.org/download.html).  
    - El script te pedirá la ruta del ejecutable `ffmpeg.exe` la primera vez.  
