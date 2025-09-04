@@ -32,7 +32,7 @@ C:\Users<tu_usuario>\AppData\Roaming\Aseprite\Scripts\GiftoMp4
 ## 🚀 Uso
 
 1. Abre **Aseprite** y carga tu animación GIF.  
-2. Ejecuta el script `gif_to_mp4.lua` desde **Archivo → Scripts → Ejecutar script**.  
+2. Ejecuta el script `GIFtoMP4.lua` desde **Archivo → Scripts → Ejecutar script**.  
 3. Aparecerá un diálogo con estas opciones:
 
 - **Ruta FFmpeg:** Ruta al ejecutable `ffmpeg.exe`.  
