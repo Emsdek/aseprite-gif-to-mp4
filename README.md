@@ -1,4 +1,4 @@
-# GIF to MP4 Converter para Aseprite
+# GIF to MP4 Converter V1.0 para Aseprite
 
 Este script permite convertir animaciones GIF creadas en **Aseprite** a archivos **MP4** usando **FFmpeg**.
 
