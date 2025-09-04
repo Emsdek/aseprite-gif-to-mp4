@@ -1,4 +1,4 @@
--- GIF to MP4 Converter para Aseprite (final y robusto)
+-- GIF to MP4 Converter V1.0 para Aseprite
 -- David + ChatGPT 2025
 
 local sprite = app.activeSprite
@@ -177,3 +177,4 @@ local function main()
 end
 
 main()
+
