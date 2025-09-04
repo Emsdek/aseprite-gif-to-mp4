@@ -6,7 +6,7 @@ Este script permite convertir animaciones GIF creadas en **Aseprite** a archivos
 
 ## 📦 Archivos incluidos
 
-- `gif_to_mp4.lua` → Script principal para Aseprite.  
+- `GIFtoMP4.lua` → Script principal para Aseprite.  
 - `leeme.txt` → Archivo de ayuda con instrucciones adicionales (opcional).  
 
 ---
