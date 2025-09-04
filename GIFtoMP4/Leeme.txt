@@ -1,0 +1,8 @@
+- Los archivos a transformar siempre deben tener al menos 2 frames.
+- Tener instalado ffmpeg.exe e indicar su ruta absoluta.
+- Archivos log de ffmpeg en X:\Users\XXXXXX\AppData\Local\Temp\
+# ffmpeg_log.txt
+# ffmpeg_command.txt
+
+- Info: https://github.com/Emsdek/aseprite-gif-to-mp4
+Creado por Emsdek + ChatGPT
