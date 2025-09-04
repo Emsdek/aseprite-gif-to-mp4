@@ -24,8 +24,8 @@ Este script permite convertir animaciones GIF creadas en **Aseprite** a archivos
 ## 🛠️ Instalación
 
 1. Descarga o clona este repositorio.  
-2. Copia la carpeta del proyecto (con `gif_to_mp4.lua` y `leeme.txt`) dentro de la carpeta `Scripts` de Aseprite:  
-C:\Users<tu_usuario>\AppData\Roaming\Aseprite\Scripts\GiftoMp4
+2. Copia la carpeta del proyecto (con `GIFtoMP4.lua` y `leeme.txt`) dentro de la carpeta `Scripts` de Aseprite:  
+C:\Users<tu_usuario>\AppData\Roaming\Aseprite\Scripts\GIFtoMP4
 
 ---
 
